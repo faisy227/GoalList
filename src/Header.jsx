@@ -16,7 +16,7 @@ function Header() {
       <div className="header-content">
         <div className="logo">
           <i className="fas fa-bullseye logo-icon"></i>
-          <h1>Goals</h1>
+          <h1>GoalsList</h1>
         </div>
         <button className="theme-toggle" id="themeToggle" onClick={() => setIsDark(!isDark)}>
           <i className="fas fa-moon"></i>
